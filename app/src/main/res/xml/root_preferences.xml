@@ -1,0 +1,59 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="life_story_lines"
+            app:title="Life Story Lines"
+            app:summary="SHOW LIFE STORY LINES" />
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="family_tree_lines"
+            app:title="Family Tree Lines"
+            app:summary="SHOW FAMILY TREE LINES" />
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="spouse_lines"
+            app:title="Spouse Lines"
+            app:summary="SHOW SPOUSE LINES"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="fathers_side"
+            app:title="Father's Side"
+            app:summary="FILTER BY FATHER'S SIDE OF THE FAMILY"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="mothers_side"
+            app:title="Mother's Side"
+            app:summary="FILTER BY MOTHER'S SIDE OF THE FAMILY"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="male_events"
+            app:title="Male Events"
+            app:summary="FILTER EVENTS BASED ON GENDER"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="female_events"
+            app:title="Female Events"
+            app:summary="FILTER EVENTS BASED ON GENDER"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory>
+        <SwitchPreferenceCompat
+            app:key="logout"
+            app:title="Logout"
+            app:summary="RETURN TO LOGIN SCREEN"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

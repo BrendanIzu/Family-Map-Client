@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="gender">Gender:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="firstName">First Name:</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="username">Username:</string>
+    <string name="register">Register</string>
+    <string name="SignIn">Sign In</string>
+    <string name="serverHost">Server Host:</string>
+    <string name="serverPort">Server Port:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="map_settings">Map Settings</string>
+    <string name="settings1">Settings1</string>
+    <string name="logout">Logout</string>
+    <string name="filter_events_based_on_gender">FILTER EVENTS BASED ON GENDER</string>
+    <string name="female_events">Female Events</string>
+    <string name="male_events">Male Events</string>
+    <string name="filter_by_mother_s_side">FILTER BY MOTHER\'S SIDE</string>
+    <string name="filter_by_father_s_side">FILTER BY FATHER\'S SIDE</string>
+    <string name="mother_s_side">Mother\'s Side</string>
+    <string name="father_s_side">Father\'s Side</string>
+    <string name="show_spouse_lines">SHOW SPOUSE LINES</string>
+    <string name="spouse_lines">Spouse Lines</string>
+    <string name="show_family_tree_lines">SHOW FAMILY TREE LINES</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="show_life_story_lines">SHOW LIFE STORY LINES</string>
+    <string name="life_story_lines">Life Story Lines</string>
+</resources>
